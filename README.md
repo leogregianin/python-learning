@@ -24,6 +24,13 @@
 * [Anonymous and Lambda functions](https://www.programiz.com/python-programming/anonymous-function)
 
 ### Third week
+* [Django’s Structure – A Heretic’s Eye View](https://djangobook.com/mdj2-django-structure/)
+* [DNS: What it is and what it does](https://www.dummies.com/education/internet-basics/dns-what-it-is-and-what-it-does/)
+* [Hypertext Transfer Protocol -- HTTP/1.1](https://www.w3.org/Protocols/rfc2616/rfc2616.html)
+* [HTTP Tutorial](https://www.tutorialspoint.com/http/index.htm)
+* [Django appears to be a MVC framework, but you call the Controller the “view”, and the View the “template”. How come you don’t use the standard names?](https://docs.djangoproject.com/en/1.11/faq/general/#django-appears-to-be-a-mvc-framework-but-you-call-the-controller-the-view-and-the-view-the-template-how-come-you-don-t-use-the-standard-names)
+* [Livro 'Desconstruindo a Web'](https://www.casadocodigo.com.br/products/livro-desconstruindo-web) (Portuguese)
+* [How Django URLs work with Regular Expressions](https://www.youtube.com/watch?v=8rExil_EWtk)
 
 ### Fourth week
 
