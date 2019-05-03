@@ -14,8 +14,11 @@
 * [Modules official tutorial](https://docs.python.org/3/tutorial/modules.html)
 * [Modules](https://www.tutorialspoint.com/python3/python_modules.htm)
 * [Python Exceptions: An Introduction](https://realpython.com/python-exceptions/)
+* [Regular expression operations](https://docs.python.org/3/library/re.html)
+* [List Comprehension](https://pythonacademy.com.br/blog/list-comprehensions-no-python) (Portuguese)
 * [Dictionary Comprehension Tutorial](https://www.datacamp.com/community/tutorials/python-dictionary-comprehension)
 * [Functional Programming HOWTO](https://docs.python.org/3/howto/functional.html)
+* [Map, Filter and Reduce](http://book.pythontips.com/en/latest/map_filter.html)
 * [Errors and Exceptions](https://docs.python.org/3/tutorial/errors.html)
 * [Python Context Managers](https://jeffknupp.com/blog/2016/03/07/python-with-context-managers/)
 * [Decorators](https://www.python-course.eu/python3_decorators.php)
@@ -33,6 +36,11 @@
 * [How Django URLs work with Regular Expressions](https://www.youtube.com/watch?v=8rExil_EWtk)
 
 ### Fourth week
+* [Django - Template System](https://www.tutorialspoint.com/django/django_template_system.htm)
+* [Working with forms](https://docs.djangoproject.com/en/2.1/topics/forms/)
+* [Django Templates](https://docs.djangoproject.com/en/2.1/topics/templates/)
+* [Class-based views](https://docs.djangoproject.com/en/2.1/topics/class-based-views/)
+* [Built-in class-based generic views](https://docs.djangoproject.com/en/2.1/topics/class-based-views/generic-display/)
 
 ### Fifth week
 
