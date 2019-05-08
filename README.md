@@ -43,5 +43,13 @@
 * [Built-in class-based generic views](https://docs.djangoproject.com/en/2.1/topics/class-based-views/generic-display/)
 
 ### Fifth week
+* [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+* [HTTP (HyperText Transfer Protocol)](https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html)
+* [Django REST framework: Quickstart](https://www.django-rest-framework.org/tutorial/quickstart/)
+* [Django REST framework: Serialization](https://www.django-rest-framework.org/tutorial/1-serialization/)
+* [Criando Uma API Rest Utilizando Django Rest Framework — Parte 1](https://medium.com/@marcosrabaioli/criando-uma-api-rest-utilizando-django-rest-framework-parte-1-55ac3e394fa) (Portuguese)
+* [Official Django REST Framework Tutorial - A Beginners Guide](https://wsvincent.com/official-django-rest-framework-tutorial-beginners-guide/)
+* [Learn REST: A RESTful Tutorial](https://www.restapitutorial.com/)
+* [Mathematical functions](https://docs.python.org/3.6/library/math.html)
 
 ### Sixth week
