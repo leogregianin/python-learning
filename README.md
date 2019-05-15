@@ -53,3 +53,12 @@
 * [Mathematical functions](https://docs.python.org/3.6/library/math.html)
 
 ### Sixth week
+* [What is version control](https://br.atlassian.com/git/tutorials/what-is-version-control)
+* [Aprenda Git](http://aprenda.vidageek.net/aprenda/git) (Portuguese)
+* [git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html) (Portuguese)
+* [Plano para estudar Git e GitHub enquanto aprende programação](https://medium.com/trainingcenter/plano-para-estudar-git-e-github-enquanto-aprende-programa%C3%A7%C3%A3o-f5d5f986f459) (Portuguese)
+* [Entendendo os três tipos de deploy mais comuns](https://tableless.com.br/tipos-de-deploy/) (Portuguese)
+* [Deploy!](https://tutorial.djangogirls.org/pt/deploy/) (Portuguese)
+* [Deploying Python and Django Apps on Heroku](https://devcenter.heroku.com/articles/deploying-python)
+* [How to Deploy Django Applications on Heroku](https://simpleisbetterthancomplex.com/tutorial/2016/08/09/how-to-deploy-django-applications-on-heroku.html)
+* [How to Deploy a Django App to Heroku in 2018… The Easy Way](https://medium.com/@qazi/how-to-deploy-a-django-app-to-heroku-in-2018-the-easy-way-48a528d97f9c)
